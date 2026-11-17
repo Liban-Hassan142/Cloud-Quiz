@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650024739798",
+    "project_id": "cloud-quiz-78306",
+    "storage_bucket": "cloud-quiz-78306.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650024739798:android:f0365cf50708a0ec007a77",
+        "android_client_info": {
+          "package_name": "com.example.cloudquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL-cdd3O_rpdAKCcFaR1y8tpc-tAOJA4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
